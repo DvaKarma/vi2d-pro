@@ -1,0 +1,10 @@
+{
+  "trayTooltip": "VI2D PRO",
+  "openKudu": "פתח את VI2D PRO",
+  "quit": "יציאה",
+  "scheduledTaskNotificationTitle": "VI2D PRO - משימה מתוזמנת",
+  "scheduledTaskNotificationBody": "מפעיל את \"{{name}}\"...",
+  "scanCompleteNotificationTitle": "VI2D PRO - הסריקה הושלמה",
+  "scanCompleteNotificationBody": "נמצאו {{itemCount}} פריטים ({{sizeMB}} MB) שניתן לנקות.",
+  "scheduledScanName": "סריקה מתוזמנת"
+}

@@ -1,0 +1,10 @@
+{
+  "trayTooltip": "VI2D PRO",
+  "openKudu": "Öppna VI2D PRO",
+  "quit": "Avsluta",
+  "scheduledTaskNotificationTitle": "VI2D PRO - Schemalagd aktivitet",
+  "scheduledTaskNotificationBody": "Kör \"{{name}}\"...",
+  "scanCompleteNotificationTitle": "VI2D PRO - Genomsökning slutförd",
+  "scanCompleteNotificationBody": "Hittade {{itemCount}} objekt ({{sizeMB}} MB) som kan rensas.",
+  "scheduledScanName": "Schemalagd genomsökning"
+}

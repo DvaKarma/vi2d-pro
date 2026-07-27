@@ -1,0 +1,10 @@
+{
+  "trayTooltip": "VI2D PRO",
+  "openKudu": "فتح VI2D PRO",
+  "quit": "إنهاء",
+  "scheduledTaskNotificationTitle": "VI2D PRO - مهمة مجدولة",
+  "scheduledTaskNotificationBody": "جارٍ تشغيل \"{{name}}\"...",
+  "scanCompleteNotificationTitle": "VI2D PRO - اكتمل الفحص",
+  "scanCompleteNotificationBody": "تم العثور على {{itemCount}} عنصرًا ({{sizeMB}} ميجابايت) يمكن تنظيفها.",
+  "scheduledScanName": "فحص مجدول"
+}

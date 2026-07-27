@@ -1,0 +1,10 @@
+{
+  "trayTooltip": "VI2D PRO",
+  "openKudu": "VI2D PRO öffnen",
+  "quit": "Beenden",
+  "scheduledTaskNotificationTitle": "VI2D PRO - Geplante Aufgabe",
+  "scheduledTaskNotificationBody": "\"{{name}}\" wird ausgeführt...",
+  "scanCompleteNotificationTitle": "VI2D PRO - Scan abgeschlossen",
+  "scanCompleteNotificationBody": "{{itemCount}} Elemente ({{sizeMB}} MB) gefunden, die bereinigt werden können.",
+  "scheduledScanName": "Geplanter Scan"
+}

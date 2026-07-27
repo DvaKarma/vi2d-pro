@@ -1,0 +1,10 @@
+{
+  "trayTooltip": "VI2D PRO",
+  "openKudu": "VI2D PRO खोलें",
+  "quit": "बंद करें",
+  "scheduledTaskNotificationTitle": "VI2D PRO - निर्धारित कार्य",
+  "scheduledTaskNotificationBody": "\"{{name}}\" चल रहा है...",
+  "scanCompleteNotificationTitle": "VI2D PRO - स्कैन पूर्ण",
+  "scanCompleteNotificationBody": "साफ़ किए जा सकने वाले {{itemCount}} आइटम ({{sizeMB}} MB) मिले।",
+  "scheduledScanName": "निर्धारित स्कैन"
+}

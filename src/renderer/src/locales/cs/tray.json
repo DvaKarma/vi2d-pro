@@ -1,0 +1,10 @@
+{
+  "trayTooltip": "VI2D PRO",
+  "openKudu": "Otevřít VI2D PRO",
+  "quit": "Ukončit",
+  "scheduledTaskNotificationTitle": "VI2D PRO – Naplánovaná úloha",
+  "scheduledTaskNotificationBody": "Spouští se „{{name}}“…",
+  "scanCompleteNotificationTitle": "VI2D PRO – Kontrola dokončena",
+  "scanCompleteNotificationBody": "Bylo nalezeno {{itemCount}} položek ({{sizeMB}} MB), které lze vyčistit.",
+  "scheduledScanName": "Naplánovaná kontrola"
+}

@@ -1,0 +1,10 @@
+{
+  "trayTooltip": "VI2D PRO",
+  "openKudu": "Åpne VI2D PRO",
+  "quit": "Avslutt",
+  "scheduledTaskNotificationTitle": "VI2D PRO - Planlagt oppgave",
+  "scheduledTaskNotificationBody": "Kjører \"{{name}}\"...",
+  "scanCompleteNotificationTitle": "VI2D PRO - Skanning fullført",
+  "scanCompleteNotificationBody": "Fant {{itemCount}} elementer ({{sizeMB}} MB) som kan ryddes.",
+  "scheduledScanName": "Planlagt skanning"
+}

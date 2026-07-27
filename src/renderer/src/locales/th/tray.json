@@ -1,0 +1,10 @@
+{
+  "trayTooltip": "VI2D PRO",
+  "openKudu": "เปิด VI2D PRO",
+  "quit": "ออก",
+  "scheduledTaskNotificationTitle": "VI2D PRO - งานที่กำหนดเวลาไว้",
+  "scheduledTaskNotificationBody": "กำลังเรียกใช้ \"{{name}}\"...",
+  "scanCompleteNotificationTitle": "VI2D PRO - การสแกนเสร็จสมบูรณ์",
+  "scanCompleteNotificationBody": "พบ {{itemCount}} รายการ ({{sizeMB}} MB) ที่สามารถล้างได้",
+  "scheduledScanName": "การสแกนตามกำหนดเวลา"
+}

@@ -1,0 +1,10 @@
+{
+  "trayTooltip": "VI2D PRO",
+  "openKudu": "Відкрити VI2D PRO",
+  "quit": "Вийти",
+  "scheduledTaskNotificationTitle": "VI2D PRO - Заплановане завдання",
+  "scheduledTaskNotificationBody": "Виконується \"{{name}}\"...",
+  "scanCompleteNotificationTitle": "VI2D PRO - Сканування завершено",
+  "scanCompleteNotificationBody": "Знайдено {{itemCount}} елементів ({{sizeMB}} МБ), які можна очистити.",
+  "scheduledScanName": "Заплановане сканування"
+}

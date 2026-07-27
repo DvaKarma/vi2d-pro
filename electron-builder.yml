@@ -1,0 +1,93 @@
+appId: com.vi2d.pro
+productName: VI2D PRO
+copyright: Copyright © 2024-2026 VI2D Data Centers
+
+directories:
+  buildResources: resources
+  output: dist
+
+files:
+  - out/**/*
+
+extraResources:
+  - from: resources/icon.ico
+    to: icon.ico
+    filter:
+      - "**/*"
+  - from: resources/icon.png
+    to: icon.png
+    filter:
+      - "**/*"
+  - from: resources/icons
+    to: icons
+    filter:
+      - "**/*"
+
+win:
+  target:
+    - target: nsis
+      arch:
+        - x64
+  icon: resources/icon.ico
+  requestedExecutionLevel: requireAdministrator
+
+nsis:
+  oneClick: true
+  # Must stay in sync with win.requestedExecutionLevel above.
+  # requestedExecutionLevel only patches the manifest of VI2D PRO.exe — it has no
+  # effect on the installer. Left per-user (the default), the installer compiles
+  # with `RequestExecutionLevel user`, so it never elevates and then drops an
+  # admin-manifested exe into the user-writable %LOCALAPPDATA%\Programs. Going
+  # per-machine makes the installer request elevation up front, installs to
+  # Program Files, and marks isAdminRightsRequired in the update metadata.
+  perMachine: true
+  allowToChangeInstallationDirectory: false
+  deleteAppDataOnUninstall: false
+  shortcutName: VI2D PRO
+  artifactName: VI2D-PRO-Setup-${version}.${ext}
+
+mac:
+  target:
+    - target: dmg
+      arch:
+        - x64
+        - arm64
+    - target: zip
+      arch:
+        - x64
+        - arm64
+  icon: resources/icon.png
+  category: public.app-categories.utilities
+  hardenedRuntime: true
+  entitlements: resources/entitlements.mac.plist
+  entitlementsInherit: resources/entitlements.mac.plist
+  notarize: true
+  artifactName: VI2D-PRO-${version}-${arch}.${ext}
+
+linux:
+  target:
+    - target: AppImage
+      arch:
+        - x64
+    - target: deb
+      arch:
+        - x64
+  icon: resources/icons/
+  category: Utility
+  artifactName: VI2D-PRO-${version}-${arch}.${ext}
+
+deb:
+  depends:
+    - libgtk-3-0
+    - libnss3
+    - libxss1
+    - libasound2 | libasound2t64
+    - libgbm1
+    - libfuse2 | libfuse2t64
+  afterInstall: scripts/deb-postinstall.sh
+
+publish:
+  provider: github
+  owner: DvaKarma
+  repo: vi2d-pro
+  releaseType: release

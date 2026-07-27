@@ -1,0 +1,10 @@
+{
+  "trayTooltip": "VI2D PRO",
+  "openKudu": "Avaa VI2D PRO",
+  "quit": "Lopeta",
+  "scheduledTaskNotificationTitle": "VI2D PRO - Ajastettu tehtävä",
+  "scheduledTaskNotificationBody": "Suoritetaan \"{{name}}\"...",
+  "scanCompleteNotificationTitle": "VI2D PRO - Tarkistus valmis",
+  "scanCompleteNotificationBody": "Löytyi {{itemCount}} kohdetta ({{sizeMB}} MB), jotka voidaan puhdistaa.",
+  "scheduledScanName": "Ajastettu tarkistus"
+}

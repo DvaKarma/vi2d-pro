@@ -1,0 +1,10 @@
+{
+  "trayTooltip": "VI2D PRO",
+  "openKudu": "Buka VI2D PRO",
+  "quit": "Keluar",
+  "scheduledTaskNotificationTitle": "VI2D PRO - Tugas Terjadwal",
+  "scheduledTaskNotificationBody": "Menjalankan \"{{name}}\"...",
+  "scanCompleteNotificationTitle": "VI2D PRO - Pemindaian Selesai",
+  "scanCompleteNotificationBody": "Ditemukan {{itemCount}} item ({{sizeMB}} MB) yang dapat dibersihkan.",
+  "scheduledScanName": "Pemindaian Terjadwal"
+}

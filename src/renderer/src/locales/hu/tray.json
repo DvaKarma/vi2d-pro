@@ -1,0 +1,10 @@
+{
+  "trayTooltip": "VI2D PRO",
+  "openKudu": "VI2D PRO megnyitása",
+  "quit": "Kilépés",
+  "scheduledTaskNotificationTitle": "VI2D PRO - Ütemezett feladat",
+  "scheduledTaskNotificationBody": "\"{{name}}\" futtatása...",
+  "scanCompleteNotificationTitle": "VI2D PRO - Vizsgálat befejezve",
+  "scanCompleteNotificationBody": "{{itemCount}} tisztítható elem található ({{sizeMB}} MB).",
+  "scheduledScanName": "Ütemezett vizsgálat"
+}

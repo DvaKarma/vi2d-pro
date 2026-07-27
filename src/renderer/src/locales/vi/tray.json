@@ -1,0 +1,10 @@
+{
+  "trayTooltip": "VI2D PRO",
+  "openKudu": "Mở VI2D PRO",
+  "quit": "Thoát",
+  "scheduledTaskNotificationTitle": "VI2D PRO - Tác vụ theo lịch",
+  "scheduledTaskNotificationBody": "Đang chạy \"{{name}}\"...",
+  "scanCompleteNotificationTitle": "VI2D PRO - Quét hoàn tất",
+  "scanCompleteNotificationBody": "Đã tìm thấy {{itemCount}} mục ({{sizeMB}} MB) có thể dọn dẹp.",
+  "scheduledScanName": "Quét theo lịch"
+}

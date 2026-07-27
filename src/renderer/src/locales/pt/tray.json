@@ -1,0 +1,10 @@
+{
+  "trayTooltip": "VI2D PRO",
+  "openKudu": "Abrir VI2D PRO",
+  "quit": "Sair",
+  "scheduledTaskNotificationTitle": "VI2D PRO - Tarefa Agendada",
+  "scheduledTaskNotificationBody": "A executar \"{{name}}\"...",
+  "scanCompleteNotificationTitle": "VI2D PRO - Verificação Concluída",
+  "scanCompleteNotificationBody": "Foram encontrados {{itemCount}} itens ({{sizeMB}} MB) que podem ser limpos.",
+  "scheduledScanName": "Verificação Agendada"
+}

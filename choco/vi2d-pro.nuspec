@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>vi2d-pro</id>
+    <version>1.4.8</version>
+    <title>VI2D PRO</title>
+    <authors>VI2D Data Centers</authors>
+    <owners>DvaKarma</owners>
+    <projectUrl>https://usekudu.com</projectUrl>
+    <projectSourceUrl>https://github.com/DvaKarma/vi2d-pro</projectSourceUrl>
+    <bugTrackerUrl>https://github.com/DvaKarma/vi2d-pro/issues</bugTrackerUrl>
+    <iconUrl>https://usekudu.com/icon.png</iconUrl>
+    <licenseUrl>https://github.com/DvaKarma/vi2d-pro/blob/main/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>system-cleaner utility optimization disk-cleanup junk-files open-source</tags>
+    <summary>A modern, open-source system cleaner for Windows</summary>
+    <description>VI2D PRO is a free, open-source system cleaner that helps you remove junk files, free up disk space, and optimize your computer. Built with a modern interface, it provides safe and easy-to-use cleaning tools with automatic updates.</description>
+    <releaseNotes>https://github.com/DvaKarma/vi2d-pro/releases/tag/v1.4.8</releaseNotes>
+  </metadata>
+</package>

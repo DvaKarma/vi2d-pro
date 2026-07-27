@@ -1,0 +1,10 @@
+{
+  "trayTooltip": "VI2D PRO",
+  "openKudu": "VI2D PRO'yu Aç",
+  "quit": "Çık",
+  "scheduledTaskNotificationTitle": "VI2D PRO - Zamanlanmış Görev",
+  "scheduledTaskNotificationBody": "\"{{name}}\" çalıştırılıyor...",
+  "scanCompleteNotificationTitle": "VI2D PRO - Tarama Tamamlandı",
+  "scanCompleteNotificationBody": "Temizlenebilecek {{itemCount}} öğe ({{sizeMB}} MB) bulundu.",
+  "scheduledScanName": "Zamanlanmış Tarama"
+}
