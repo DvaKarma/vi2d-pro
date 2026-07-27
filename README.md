@@ -27,10 +27,6 @@
 
 ---
 
-<p align="center">
-  <img src="resources/kudu-animated.gif" alt="VI2D PRO Demo" width="800" />
-</p>
-
 ## Download
 
 Get the latest installer for your platform from [GitHub Releases](https://github.com/DvaKarma/vi2d-pro/releases):
